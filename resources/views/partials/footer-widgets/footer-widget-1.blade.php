@@ -1,0 +1,3 @@
+<img class="img-fluid footer-widget-logo" class="" src="images/flat-blog-logo-3.png">
+<p>Awesome and completely free WordPress WooCommerce themes to take your ecommerce website to the next level. If you are having problems with theme setup, please feel free to use Colorlib support forum.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque deleniti perferendis adipisci doloremque architecto itaque at suscipit, veritatis voluptatibus quasi, quos eum! Odit tempora a, alias ad consectetur, voluptas quia.</p>
